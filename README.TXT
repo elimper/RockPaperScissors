@@ -1,12 +1,11 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is a command line interface version of Rock, Paper, Scissors.
+Future updates should include JFrame GUI and web launch.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+PROJECT TITLE: Rock Paper Scissors
+PURPOSE OF PROJECT: set up simple rock paper scissors game
+VERSION or DATE:Aug. 2020
+HOW TO START THIS PROJECT: 
+AUTHORS: Eli Limper
 USER INSTRUCTIONS:
