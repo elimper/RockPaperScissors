@@ -1,11 +1,12 @@
 import java.util.Scanner;
 /**
  * Sets rules for rock paper scissors
+ * Runs a command line game
  * 
  * @author Eli Limper 
  * @version 8/19/2020
  */
-public class Game {
+public class CommandLineGame {
     private Player computer = new Player("computer");
     Player human = new Player();
     private Scanner scanner = new Scanner(System.in);
@@ -13,7 +14,7 @@ public class Game {
     private int humanScore = 0;
     
     
-    public Game(){
+    public CommandLineGame(){
         //Set player name
         createPlayer();
         //begin playing
